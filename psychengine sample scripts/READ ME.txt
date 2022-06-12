@@ -1,0 +1,10 @@
+SOURCES
+-------------
+
+Lua Script API and Documentation:
+https://github.com/ShadowMario/FNF-PsychEngine/wiki/Lua-Script-API
+
+Example Scripts:
+https://github.com/ShadowMario/FNF-PsychEngine/wiki/Lua-Script-API
+
+If you're having problems, be sure to check out the links above :)
