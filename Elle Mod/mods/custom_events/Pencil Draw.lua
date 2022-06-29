@@ -1,48 +1,31 @@
 -- Event notes hooks
 function onEvent(name, value1, value2)
 	if name == 'Pencil Draw' then
-
-		duration = tonumber(value1);
-		enter_duration = tonumber(value2);
-		x_position = tonumber(value3);
-		y_position = tonumber(value4);
-		if duration < 0 then
-			duration = 0;
-		end
-		if enter_duration < 0 then
-			enter_duration = 0;
+		if value1 == 2007 and value2 == 1103 then -- init sprite 
+			makeAnimatedLuaSprite('pencil', 'characters/PencilDraw', -100, 1000);
+		else
+			duration = tonumber(value1);
+			enter_duration = tonumber(value2);
+			if duration < 0 then
+				duration = 0;
+			end
+			if enter_duration < 0 then
+				enter_duration = 0;
+			end
+			makeAnimatedLuaSprite('pencil', 'characters/PencilDraw', -100, 100);
+			setProperty('pencil.position.y', 10);
+			addAnimationByPrefix('pencil', 'first', 'Pencil Draw', 24, false);
+			objectPlayAnimation('pencil', 'first');
+			addLuaSprite('pencil', false); -- false = add behind characters, true = add over characters
 		end
 		
-
-		makeAnimatedLuaSprite('pencil', 'characters/PencilDraw', -100, 100);
-		addAnimationByPrefix('pencil', 'first', 'BF NOTE DOWN', 24, false);
-		objectPlayAnimation('pencil', 'first');
-		addLuaSprite('pencil', false); -- false = add behind characters, true = add over characters
-		
-	
-		makeAnimatedLuaSprite('pencil', 'characters/bfPixelsDEAD', -100, 100);
-		addAnimationByPrefix('pencil', 'first', 'BF Dies pixel', 24, false);
-		objectPlayAnimation('pencil', 'first');
-		addLuaSprite('pencil', false); -- false = add behind characters, true = add over characters
-
-		makeAnimatedLuaSprite('pencil', 'characters/momCar', -100, 100);
-		addAnimationByPrefix('pencil', 'first', 'MOM DOWN POSE', 24, false);
-		objectPlayAnimation('pencil', 'first');
-		addLuaSprite('pencil', false); -- false = add behind characters, true = add over characters
-
-
-		--[[
-		makeAnimatedLuaSprite('pencil', 'characters/Pencil Draw', 500, 0);
-		addAnimationByPrefix('pencil', 'first', 'pencil', 24, false);
-		objectPlayAnimation('pencil', 'first');
-		addLuaSprite('pencil', false); -- false = add behind characters, true = add over characters
-		]]--
 	end
 end
 
 function onStepHit()
 	-- triggered 16 times per section
-	setProperty('pencil.scale.x', getProperty('pencil.scale.x') + 0.01);
+
+	-- setProperty('pencil.scale.x', getProperty('pencil.scale.x') + 0.01);
 end
 
 function onBeatHit()

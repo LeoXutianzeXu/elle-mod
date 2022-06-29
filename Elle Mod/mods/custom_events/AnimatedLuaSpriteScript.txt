@@ -1,5 +1,0 @@
-Creates a pencil drawing animation at the top of the 
-player's arrows.
-
-Value 1: Duration 
-Value 2: Entering Duration (0 = Instant)
