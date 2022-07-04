@@ -2,8 +2,14 @@
 <TextureAtlas imagePath="ELLE_Dialogue.png">
 	<!-- Created with Adobe Animate version 21.0.1.37179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="ELLE0000" x="4" y="4" width="402" height="407" pivotX="-66.25" pivotY="-60.45"/>
-	<SubTexture name="ELLE0001" x="4" y="4" width="402" height="407"/>
+	<SubTexture name="ELLE0000" x="0" y="0" width="402" height="407" pivotX="-66.25" pivotY="-60.45"/>
+	<SubTexture name="ELLE0001" x="0" y="0" width="402" height="407"/>
+	<SubTexture name="ELLE LOOP0000" x="3684" y="4" width="404" height="421" pivotX="-65.05" pivotY="-46.6"/>
+	<SubTexture name="ELLE LOOP0001" x="3684" y="4" width="404" height="421"/>
+	<SubTexture name="ELLE LOOP0002" x="4" y="4" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="ELLE LOOP0003" x="4" y="4" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="ELLE LOOP0004" x="410" y="4" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="ELLE LOOP0005" x="410" y="4" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
 	<SubTexture name="ELLE CONFUSED0000" x="410" y="4" width="396" height="407" pivotX="-72.35" pivotY="-60.45"/>
 	<SubTexture name="ELLE CONFUSED0001" x="410" y="4" width="396" height="407"/>
 	<SubTexture name="ELLE CONFUSED LOOP0000" x="810" y="4" width="400" height="421" pivotX="-69.3" pivotY="-46.6"/>
@@ -20,12 +26,6 @@
 	<SubTexture name="ELLE EXCITED LOOP0003" x="2850" y="4" width="412" height="417" frameX="-1" frameY="-6" frameWidth="415" frameHeight="423"/>
 	<SubTexture name="ELLE EXCITED LOOP0004" x="3266" y="4" width="414" height="412" frameX="-1" frameY="-10" frameWidth="415" frameHeight="423"/>
 	<SubTexture name="ELLE EXCITED LOOP0005" x="3266" y="4" width="414" height="412" frameX="-1" frameY="-10" frameWidth="415" frameHeight="423"/>
-	<SubTexture name="ELLE LOOP0000" x="3684" y="4" width="404" height="421" pivotX="-65.05" pivotY="-46.6"/>
-	<SubTexture name="ELLE LOOP0001" x="3684" y="4" width="404" height="421"/>
-	<SubTexture name="ELLE LOOP0002" x="4" y="430" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
-	<SubTexture name="ELLE LOOP0003" x="4" y="430" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
-	<SubTexture name="ELLE LOOP0004" x="410" y="430" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
-	<SubTexture name="ELLE LOOP0005" x="410" y="430" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
 	<SubTexture name="ELLE PISSED0000" x="816" y="430" width="381" height="407" pivotX="-136" pivotY="-60.45"/>
 	<SubTexture name="ELLE PISSED0001" x="816" y="430" width="381" height="407"/>
 	<SubTexture name="ELLE PISSED LOOP0000" x="1201" y="430" width="386" height="399" pivotX="-136" pivotY="-60.45" frameX="-1" frameY="-8" frameWidth="387" frameHeight="407"/>
