@@ -1,148 +1,156 @@
 {
 	"dialogue": [
 		{
-			"expression": "talk",
+			"expression": "back",
 			"text": "*hum*",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.25,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
+			"expression": "talk",
+			"text": "Babop",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.15,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Babop"
+			"portrait": "bf"
 		},
 		{
-			"expression": "talk",
+			"expression": "shocked",
 			"text": "Aaaah!",
 			"boxState": "angry",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.01,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "Who are--",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
 			"portrait": "elle"
 		},
 		{
-			"sound": "",
-			"speed": 0.03,
-			"portrait": "elle",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Who are--"
-		},
-		{
+			"text": "Bup bop ba bap-bebo? ",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.075,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Bup bop ba bap-bebo? "
+			"portrait": "bf"
 		},
 		{
+			"expression": "suspicious",
+			"text": "Wait a minute...",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "elle",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Wait a minute..."
+			"portrait": "elle"
 		},
 		{
+			"expression": "suspicious",
+			"text": "You aren't who I think you are, are you?",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.04,
-			"portrait": "elle",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You aren't who I think you are, are you?"
+			"portrait": "elle"
 		},
 		{
+			"expression": "excited",
+			"text": "Bup, bi bamp bef",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.07,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "Bup, bi bamp bef"
+			"portrait": "bf"
 		},
 		{
+			"expression": "suspicious",
+			"text": "Oh, okay now...",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "elle",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Oh, okay now..."
+			"portrait": "elle"
 		},
 		{
+			"expression": "suspicious",
+			"text": "Say, how did you get into my house anyway?",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "elle",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Say, how did you get into my house anyway?"
+			"portrait": "elle"
 		},
 		{
+			"expression": "talk",
+			"text": "Bur bents bap bop bou ",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.06,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Bur bents bap bop bou "
+			"portrait": "bf"
 		},
 		{
+			"expression": "suspicious look",
+			"text": ". . .",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.09,
+			"portrait": "elle"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyway, you wanted a rap battle, right?",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "elle",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Anyway, you wanted a rap battle, right?"
+			"portrait": "elle"
 		},
 		{
+			"expression": "excited",
+			"text": "Bup!",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.125,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "Bup!"
+			"portrait": "bf"
 		},
 		{
+			"expression": "uninterested",
+			"text": "I'm really in the middle of something here, but I s'pose I could use a break.",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.04,
-			"portrait": "elle",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I'm really in the middle of something here, but I s'pose I could use a break."
+			"portrait": "elle"
 		},
 		{
+			"expression": "talk",
+			"text": "How about we start with something simple? It'll be three songs in total, right?",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.04,
-			"portrait": "elle",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "How about we start with something simple? It'll be three songs in total, right?"
+			"portrait": "elle"
 		},
 		{
+			"expression": "talk",
+			"text": "Bup, bep bi ban bep baf ber bap.",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.07,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Bup, bep bi ban bep baf ber bap."
+			"portrait": "bf"
 		},
 		{
+			"expression": "talk",
+			"text": "Okay, I think I know what you mean...let me get a little setup done, and then we can start.",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.055,
-			"portrait": "elle",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Okay, I think I know what you mean...let me get a little setup done, and then we can start."
+			"portrait": "elle"
 		},
 		{
+			"expression": "pissed",
+			"text": "Be bo!",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "Be bo!"
+			"portrait": "bf"
 		}
 	]
 }

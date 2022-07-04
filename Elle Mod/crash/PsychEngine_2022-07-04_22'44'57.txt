@@ -1,0 +1,18 @@
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 318)
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 110)
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 90)
+C:\HaxeToolkit\haxe\std/haxe/format/JsonParser.hx (line 57)
+DialogueBoxPsych.hx (line 109)
+editors/DialogueEditorState.hx (line 410)
+editors/DialogueEditorState.hx (line 377)
+flixel/FlxState.hx (line 202)
+flixel/FlxGame.hx (line 747)
+flixel/FlxGame.hx (line 677)
+flixel/FlxGame.hx (line 545)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: Invalid char 93 at position 1227
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng
