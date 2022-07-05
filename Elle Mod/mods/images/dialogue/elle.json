@@ -22,6 +22,32 @@
 		},
 		{
 			"idle_offsets": [
+				-1,
+				-12
+			],
+			"anim": "suspicious",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ELLE SUSPICIOUS0",
+			"loop_name": "ELLE SUSPICIOUS LOOP"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"anim": "suspicious look",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ELLE SUSPICIOUS LOOK0",
+			"loop_name": "ELLE SUSPICIOUS LOOK LOOP"
+		},
+		{
+			"idle_offsets": [
 				4,
 				-8
 			],
@@ -38,13 +64,13 @@
 				0,
 				0
 			],
-			"anim": "pissed",
+			"anim": "uninterested",
 			"loop_offsets": [
 				0,
 				0
 			],
-			"idle_name": "ELLE PISSED0",
-			"loop_name": "ELLE PISSED LOOP"
+			"idle_name": "ELLE UNINTERESTED0",
+			"loop_name": "ELLE UNINTERESTED LOOP"
 		},
 		{
 			"idle_offsets": [
@@ -60,17 +86,17 @@
 			"loop_name": "ELLE SHOCK LOOP"
 		},
 		{
-			"loop_offsets": [
-				-3,
-				0
-			],
-			"anim": "confused",
 			"idle_offsets": [
 				-6,
 				-11
 			],
-			"loop_name": "ELLE CONFUSED LOOP",
-			"idle_name": "ELLE CONFUSED0"
+			"anim": "back",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "ELLE BACK0",
+			"loop_name": "ELLE BACK LOOP"
 		}
 	]
 }
