@@ -1,0 +1,102 @@
+{
+	"position": [
+		120,
+		30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "ELLE_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "ELLE0",
+			"loop_name": "ELLE LOOP"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"anim": "suspicious",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ELLE SUSPICIOUS0",
+			"loop_name": "ELLE SUSPICIOUS LOOP"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"anim": "suspicious look",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ELLE SUSPICIOUS LOOK0",
+			"loop_name": "ELLE SUSPICIOUS LOOK LOOP"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				0
+			],
+			"idle_name": "ELLE EXCITED0",
+			"loop_name": "ELLE EXCITED LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "uninterested",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ELLE UNINTERESTED0",
+			"loop_name": "ELLE UNINTERESTED LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "ELLE SHOCK0",
+			"loop_name": "ELLE SHOCK LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "back",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "ELLE BACK0",
+			"loop_name": "ELLE BACK LOOP"
+		}
+	]
+}
