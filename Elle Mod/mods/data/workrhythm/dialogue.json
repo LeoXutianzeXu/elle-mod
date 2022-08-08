@@ -21,15 +21,15 @@
 			"text": "Aaaah!",
 			"boxState": "angry",
 			"sound": "",
-			"speed": 0.01,
+			"speed": 0.04,
 			"portrait": "elle"
 		},
 		{
 			"expression": "shocked",
 			"text": "Who are--",
-			"boxState": "normal",
+			"boxState": "angry",
 			"portrait": "elle",
-			"speed": 0.03,
+			"speed": 0.02,
 			"sound": ""
 		},
 		{
