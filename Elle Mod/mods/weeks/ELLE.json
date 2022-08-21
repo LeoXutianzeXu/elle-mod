@@ -3,22 +3,18 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"elle",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Workrhythm",
-			"dad",
+			"elle",
 			[
 				146,
 				113,
@@ -26,7 +22,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Elle Week",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Elle Week"
 }

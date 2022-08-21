@@ -2,19 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-158,
-				245
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "ELLE idle dance"
-		},
-		{
-			"offsets": [
-				-155,
-				254
+				-113,
+				233
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-50
+				-174,
+				197
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				27
+				-99,
+				287
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				-125,
+				222
 			],
 			"loop": false,
 			"fps": 24,
@@ -65,6 +54,17 @@
 			"anim": "hey",
 			"indices": [],
 			"name": "ELLE HEY"
+		},
+		{
+			"offsets": [
+				-158,
+				242
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ELLE idle dance"
 		}
 	],
 	"no_antialiasing": false,

@@ -221,6 +221,59 @@
 	<SubTexture name="ELLE NOTE UP0005" x="442" y="1508" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
 	<SubTexture name="ELLE NOTE UP0006" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
 	<SubTexture name="ELLE NOTE UP0007" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0008" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0009" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0010" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0011" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0012" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0013" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0014" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0015" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0016" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0017" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0018" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0019" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0020" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0021" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0022" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0023" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0024" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0025" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0026" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0027" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0028" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0029" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0030" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0031" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0032" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0033" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0034" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0035" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0036" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0037" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0038" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0039" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0040" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0041" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0042" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0043" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0044" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0045" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0046" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0047" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0048" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0049" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0050" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0051" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0052" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0053" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0054" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0055" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0057" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0058" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0059" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0060" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0061" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
 	<SubTexture name="ELLE idle dance0000" x="0" y="0" width="363" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
 	<SubTexture name="ELLE idle dance0001" x="0" y="0" width="363" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
 	<SubTexture name="ELLE idle dance0002" x="363" y="0" width="355" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>

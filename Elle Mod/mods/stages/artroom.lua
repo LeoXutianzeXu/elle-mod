@@ -1,5 +1,4 @@
 function onCreate()
-	-- background shit
 	makeLuaSprite('artroom', 'artroom', -600, -300);
 	setScrollFactor('artroom', 0.9, 0.9);
 	

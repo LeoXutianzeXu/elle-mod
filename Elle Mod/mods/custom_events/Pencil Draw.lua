@@ -1,7 +1,7 @@
 -- Event notes hooks
-function onEvent(name, value1, value2)
+function onEvent(name, value1)
 	if name == 'Pencil Draw' then
-		if value1 == 2007 and value2 == 1103 then -- init sprite 
+		if value1 == "true" then -- init sprite 
 			makeAnimatedLuaSprite('pencil', 'characters/PencilDraw', -100, 1000);
 		else
 			duration = tonumber(value1);
