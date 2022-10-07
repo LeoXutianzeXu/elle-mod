@@ -1,7 +1,7 @@
 {
 	"dialogue": [
 		{
-			"expression": "back",
+			"expression": "drawing",
 			"text": "............",
 			"boxState": "normal",
 			"portrait": "elle",
@@ -65,7 +65,7 @@
 			"portrait": "bf"
 		},
 		{
-			"expression": "uninterested",
+			"expression": "suspicious",
 			"text": "Oh, okay now...",
 			"boxState": "normal",
 			"sound": "",
@@ -113,7 +113,7 @@
 			"portrait": "bf"
 		},
 		{
-			"expression": "uninterested",
+			"expression": "talk",
 			"text": "I'm really in the middle of something here, but I s'pose I could use a break.",
 			"boxState": "normal",
 			"sound": "",

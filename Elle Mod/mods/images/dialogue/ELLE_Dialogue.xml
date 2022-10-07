@@ -63,12 +63,14 @@
 	<SubTexture name="ELLE SHOCK LOOP0005" x="13" y="512" width="277" height="465" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
 	<SubTexture name="ELLE SHOCK LOOP0006" x="3713" y="24" width="287" height="468" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
 	<SubTexture name="ELLE SHOCK LOOP0007" x="3713" y="24" width="287" height="468" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
-	<SubTexture name="ELLE BACK0000" x="1979" y="430" width="396" height="407" pivotX="-72.35" pivotY="-60.45"/>
-	<SubTexture name="ELLE BACK0001" x="2379" y="430" width="396" height="407"/>
-	<SubTexture name="ELLE BACK LOOP0000" x="2779" y="430" width="400" height="421" pivotX="-69.3" pivotY="-46.6"/>
-	<SubTexture name="ELLE BACK LOOP0001" x="3183" y="430" width="400" height="421"/>
-	<SubTexture name="ELLE BACK LOOP0002" x="3587" y="430" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
-	<SubTexture name="ELLE BACK LOOP0003" x="4" y="855" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
-	<SubTexture name="ELLE BACK LOOP0004" x="403" y="855" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
-	<SubTexture name="ELLE BACK LOOP0005" x="803" y="855" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="ELLE DRAWING0000" x="617" y="514" width="678" height="470"/>
+	<SubTexture name="ELLE DRAWING0001" x="617" y="514" width="678" height="470"/>
+	<SubTexture name="ELLE DRAWING LOOP0000" x="1335" y="514" width="680" height="470"/>
+	<SubTexture name="ELLE DRAWING LOOP0001" x="1335" y="514" width="680" height="470"/>
+	<SubTexture name="ELLE DRAWING LOOP0002" x="2073" y="514" width="680" height="470"/>
+	<SubTexture name="ELLE DRAWING LOOP0003" x="2073" y="514" width="680" height="470"/>
+	<SubTexture name="ELLE DRAWING LOOP0004" x="2767" y="514" width="680" height="470"/>
+	<SubTexture name="ELLE DRAWING LOOP0005" x="2767" y="514" width="680" height="470"/>
+	<SubTexture name="ELLE DRAWING LOOP0006" x="617" y="514" width="680" height="470"/>
+	<SubTexture name="ELLE DRAWING LOOP0007" x="617" y="514" width="680" height="470"/>
 </TextureAtlas>
