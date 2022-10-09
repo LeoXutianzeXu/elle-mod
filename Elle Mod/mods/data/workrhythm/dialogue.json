@@ -4,153 +4,161 @@
 			"expression": "drawing",
 			"text": "............",
 			"boxState": "normal",
-			"portrait": "elle",
+			"sound": "",
 			"speed": 0.25,
-			"sound": ""
+			"portrait": "elle"
 		},
 		{
 			"expression": "talk",
 			"text": "Babop",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "bf",
 			"speed": 0.15,
-			"portrait": "bf"
+			"sound": ""
 		},
 		{
 			"expression": "shocked",
 			"text": "Aaaah!",
 			"boxState": "angry",
-			"portrait": "elle",
+			"sound": "",
 			"speed": 0.04,
-			"sound": ""
+			"portrait": "elle"
 		},
 		{
 			"expression": "shocked",
 			"text": "Who are--",
 			"boxState": "angry",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.02,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
 			"expression": "talk",
 			"text": "Bup bop ba bap-bebo? ",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "bf",
 			"speed": 0.075,
-			"portrait": "bf"
+			"sound": ""
 		},
 		{
 			"expression": "suspicious",
 			"text": "Wait a minute...",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.05,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
 			"expression": "suspicious",
 			"text": "You aren't who I think you are, are you?",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.04,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
 			"expression": "excited",
 			"text": "Bup, bi bamp bef",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "bf",
 			"speed": 0.07,
-			"portrait": "bf"
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, so you're really THE BF?\\nThat's incredible! What are you doing here?",
+			"boxState": "normal",
+			"portrait": "elle",
+			"speed": 0.05,
+			"sound": ""
 		},
 		{
 			"expression": "suspicious",
-			"text": "Oh, okay now...",
+			"text": "Wait...",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.05,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
-			"expression": "suspicious",
-			"text": "Say, how did you get into my house anyway?",
-			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "elle"
+			"portrait": "elle",
+			"boxState": "normal",
+			"expression": "suspicious",
+			"text": "How did you get into my house anyway?"
 		},
 		{
 			"expression": "talk",
 			"text": "Bur bents bap bop bou ",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "bf",
 			"speed": 0.06,
-			"portrait": "bf"
+			"sound": ""
 		},
 		{
 			"expression": "suspicious look",
 			"text": ". . .",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.09,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
 			"expression": "talk",
-			"text": "Anyway, you wanted a rap battle, right?",
+			"text": "Anyway, my name is Elle. You are here for a rap battle, right?",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.05,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
 			"expression": "excited",
 			"text": "Bup!",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "bf",
 			"speed": 0.125,
-			"portrait": "bf"
+			"sound": ""
 		},
 		{
 			"expression": "talk",
 			"text": "I'm really in the middle of something here, but I s'pose I could use a break.",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.04,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
 			"expression": "talk",
 			"text": "How about we start with something simple? It'll be three songs in total, right?",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.04,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
 			"expression": "talk",
 			"text": "Bup, bep bi ban bep baf ber bap.",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "bf",
 			"speed": 0.07,
-			"portrait": "bf"
+			"sound": ""
 		},
 		{
 			"expression": "talk",
 			"text": "Okay, I think I know what you mean...let me get a little setup done, and then we can start.",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "elle",
 			"speed": 0.055,
-			"portrait": "elle"
+			"sound": ""
 		},
 		{
 			"expression": "pissed",
 			"text": "Be bo!",
 			"boxState": "normal",
-			"sound": "",
+			"portrait": "bf",
 			"speed": 0.05,
-			"portrait": "bf"
+			"sound": ""
 		}
 	]
 }
