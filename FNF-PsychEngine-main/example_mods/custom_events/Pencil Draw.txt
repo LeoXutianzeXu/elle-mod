@@ -1,0 +1,5 @@
+Creates a pencil drawing character above the enemy.
+
+Value 1: true/false (If true then the pencil is spawned, if 
+not it is removed)
+Value 2: N/A

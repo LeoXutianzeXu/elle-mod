@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ELLE.png">
+	<SubTexture name="ELLE HEY!!0000" x="5388" y="509" width="395" height="832" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0001" x="5388" y="509" width="395" height="832" frameX="0" frameY="0" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0002" x="5793" y="509" width="413" height="820" frameX="-1" frameY="-8" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0003" x="5793" y="509" width="413" height="820" frameX="-1" frameY="-8" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0004" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0005" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0006" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0007" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0008" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0009" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0010" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0011" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0012" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0013" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0014" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0015" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0016" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0017" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0018" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0019" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0020" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0021" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0022" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0023" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0024" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE HEY!!0025" x="6216" y="509" width="414" height="824" frameX="-1" frameY="-6" frameWidth="415" frameHeight="418"/>
+	<SubTexture name="ELLE NOTE DOWN0000" x="2897" y="0" width="374" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0001" x="2897" y="0" width="374" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0002" x="-1" y="771" width="361" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0003" x="-1" y="771" width="361" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0004" x="360" y="778" width="359" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0005" x="360" y="778" width="359" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0006" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0007" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0008" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0009" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0010" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0011" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0012" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0013" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0014" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0015" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0016" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0017" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0018" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0019" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0020" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0021" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0022" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0023" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0024" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0025" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0026" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0027" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0028" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0029" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0030" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0031" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0032" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0033" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0034" x="360" y="778" width="359" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0035" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0036" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0037" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0038" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0039" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0040" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0041" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0042" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0043" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0044" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0045" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0046" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0047" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0048" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0049" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0050" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0051" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0052" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0053" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0054" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0055" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0056" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0057" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0058" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0059" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0060" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE DOWN0061" x="724" y="776" width="357" height="714" frameX="-1" frameY="-5" frameWidth="375" frameHeight="362"/>
+	<SubTexture name="ELLE NOTE LEFT0000" x="1737" y="0" width="297" height="757" frameX="0" frameY="0" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0001" x="1737" y="0" width="297" height="757" frameX="0" frameY="0" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0002" x="2037" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0003" x="2037" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0004" x="2324" y="0" width="287" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0005" x="2324" y="0" width="287" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0006" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0007" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0008" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0009" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0010" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0011" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0012" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0013" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0014" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0015" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0016" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0017" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0018" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0019" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0020" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0021" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0022" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0023" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0024" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0025" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0026" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0027" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0028" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0029" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0030" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0031" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0032" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0033" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0034" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0035" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0036" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0037" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0038" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0039" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0040" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0041" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0042" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0043" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0044" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0045" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0046" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0047" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0048" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0049" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0050" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0051" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0052" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0053" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0054" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0055" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0056" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0057" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0058" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0059" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0060" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE LEFT0061" x="2611" y="0" width="286" height="757" frameX="-11" frameY="-2" frameWidth="385" frameHeight="406"/>
+	<SubTexture name="ELLE NOTE RIGHT0000" x="1085" y="775" width="384" height="750" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0001" x="1085" y="775" width="384" height="750" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0002" x="1478" y="775" width="390" height="750" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0003" x="1478" y="775" width="390" height="750" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0004" x="1876" y="776" width="395" height="750" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0005" x="1876" y="776" width="395" height="750" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0006" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0007" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0008" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0009" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0010" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0011" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0012" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0013" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0014" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0015" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0016" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0017" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0018" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0019" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0020" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0021" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0022" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0023" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0023" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0024" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0025" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0026" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0027" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0028" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0029" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0030" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0031" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0032" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>	
+	<SubTexture name="ELLE NOTE RIGHT0033" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0034" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0035" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0036" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0037" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0038" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0039" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0040" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0041" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0042" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0043" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0044" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0045" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0046" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0047" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0048" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0049" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0050" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0051" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0052" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0053" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0054" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0055" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>	
+	<SubTexture name="ELLE NOTE RIGHT0056" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0057" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0058" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0059" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0060" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE RIGHT0061" x="2275" y="778" width="388" height="755" frameX="-1" frameY="-2" frameWidth="409" frameHeight="407"/>
+	<SubTexture name="ELLE NOTE UP0000" x="2648" y="774" width="432" height="892" frameX="-5" frameY="0" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0001" x="2648" y="774" width="432" height="892" frameX="-5" frameY="0" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0002" x="5" y="1510" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0003" x="5" y="1510" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0004" x="442" y="1508" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0005" x="442" y="1508" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0006" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0007" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0008" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0009" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0010" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0011" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0012" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0013" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0014" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0015" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0016" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0017" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0018" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0019" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0020" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0021" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0022" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0023" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0024" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0025" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0026" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0027" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0028" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0029" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0030" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0031" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0032" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0033" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0034" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0035" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0036" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0037" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0038" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0039" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0040" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0041" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0042" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0043" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0044" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0045" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0046" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0047" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0048" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0049" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0050" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0051" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0052" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0053" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0054" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0055" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0057" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0058" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0059" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0060" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE NOTE UP0061" x="880" y="1528" width="442" height="881" frameX="0" frameY="-5" frameWidth="376" frameHeight="446"/>
+	<SubTexture name="ELLE idle dance0000" x="0" y="0" width="363" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0001" x="0" y="0" width="363" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0002" x="363" y="0" width="355" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0003" x="363" y="0" width="355" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0004" x="718" y="0" width="343" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0005" x="718" y="0" width="343" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0006" x="718" y="0" width="343" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0007" x="1062" y="0" width="339" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0008" x="1062" y="0" width="339" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="ELLE idle dance0009" x="1403" y="0" width="327" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+	<SubTexture name="ELLE idle dance0010" x="1403" y="0" width="327" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+	<SubTexture name="ELLE idle dance0011" x="1403" y="0" width="327" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+	<SubTexture name="ELLE idle dance0012" x="1403" y="0" width="327" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+	<SubTexture name="ELLE idle dance0013" x="1403" y="0" width="327" height="770" frameX="0" frameY="0" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

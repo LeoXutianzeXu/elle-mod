@@ -1,0 +1,32 @@
+{
+	"storyName": "ELLE",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"elle",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Workrhythm",
+			"elle",
+			[
+				128,
+				0,
+				200
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "ELLE WEEK",
+	"hiddenUntilUnlocked": false
+}
