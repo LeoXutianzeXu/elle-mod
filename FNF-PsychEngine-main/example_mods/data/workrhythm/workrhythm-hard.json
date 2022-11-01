@@ -5670,14 +5670,34 @@
 				"bpm": 160
 			},
 			{
-				"gfSection": false,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
-				"bpm": 160,
 				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 160,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 160,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 160
 			},
 			{
 				"gfSection": false,
@@ -6817,16 +6837,6 @@
 				[
 					[
 						"Pencil Draw",
-						"true",
-						""
-					]
-				]
-			],
-			[
-				12000,
-				[
-					[
-						"Pencil Draw",
 						"false",
 						""
 					]
@@ -6843,12 +6853,32 @@
 				]
 			],
 			[
+				43500,
+				[
+					[
+						"Pencil Draw",
+						"true",
+						""
+					]
+				]
+			],
+			[
 				48000,
 				[
 					[
 						"Change Character",
 						"1",
 						"elle"
+					]
+				]
+			],
+			[
+				48093.75,
+				[
+					[
+						"Pencil Draw",
+						"false",
+						""
 					]
 				]
 			],
@@ -6863,12 +6893,32 @@
 				]
 			],
 			[
+				55500,
+				[
+					[
+						"Pencil Draw",
+						"true",
+						""
+					]
+				]
+			],
+			[
 				60000,
 				[
 					[
 						"Change Character",
 						"1",
 						"elle"
+					]
+				]
+			],
+			[
+				60093.75,
+				[
+					[
+						"Pencil Draw",
+						"false",
+						""
 					]
 				]
 			],
@@ -7113,6 +7163,16 @@
 				]
 			],
 			[
+				88593.75,
+				[
+					[
+						"Pencil Draw",
+						"true",
+						""
+					]
+				]
+			],
+			[
 				89250,
 				[
 					[
@@ -7213,12 +7273,42 @@
 				]
 			],
 			[
+				96093.75,
+				[
+					[
+						"Pencil Draw",
+						"false",
+						""
+					]
+				]
+			],
+			[
 				111000,
 				[
 					[
 						"Change Character",
 						"1",
 						"ellealt"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Pencil Draw",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Pencil Draw",
+						"false",
+						""
 					]
 				]
 			]

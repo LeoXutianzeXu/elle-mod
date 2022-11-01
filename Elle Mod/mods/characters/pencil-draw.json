@@ -1,22 +1,22 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-5,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Pencil Draw"
+			"fps": 24,
+			"name": "Pencil Draw",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/PencilDraw",
 	"position": [
 		0,
-		350
+		100
 	],
 	"healthicon": "bf",
 	"flip_x": false,
