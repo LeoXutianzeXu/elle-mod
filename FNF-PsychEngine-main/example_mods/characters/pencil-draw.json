@@ -1,15 +1,26 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-5,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
+			"fps": 24,
+			"name": "Pencil Draw",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
 			"indices": [],
-			"name": "Pencil Draw"
+			"fps": 24,
+			"anim": "",
+			"loop": true,
+			"name": ""
 		}
 	],
 	"no_antialiasing": false,

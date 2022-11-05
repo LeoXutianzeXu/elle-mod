@@ -22,16 +22,18 @@ end
 
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Pencil Note' then
+		--[[
 		number = math.random(1,4);
 		if number == 1 then
 			playSound('Hit1', 0.25);
 		elseif number == 2 then
-			playSound('Hit2', 0.25);
+			playSound('Hit1', 0.25);
 		elseif number == 3 then
-			playSound('Hit3', 0.25);
+			playSound('Hit1', 0.25);
 		elseif number == 4 then
-			playSound('Hit5', 0.25);
+			playSound('Hit1', 0.25);
 		end
+		]]--
 		-- put something here if you want
 	end
 end
